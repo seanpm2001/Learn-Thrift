@@ -35,7 +35,7 @@
 # Apache Thrift source file
 *.thrift linguist-detectable=true
 *.thrift linguist-documentation=false
-*.thrift linguist-language=THrift
+*.thrift linguist-language=Thrift
 # Less stylesheet file
 *.less linguist-detectable=true
 *.less linguist-documentation=false
@@ -168,7 +168,7 @@
 # End of linguist script
 
 # File info
-# File type: gitattributes file (.gitattributes)
-# File version: 5 (2022, Wednesday, September 28th at 4:07 pm PST)
+# File type: gitattributes file (*.gitattributes)
+# File version: 6 (2022, Wednesday, September 28th at 4:09 pm PST)
 # Line count (including blank lines and compiler line): 175
 # End of script
